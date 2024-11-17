@@ -219,9 +219,6 @@
             <mxPoint x="849" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFaxDVJX8GuM4-is02bu-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TFaxDVJX8GuM4-is02bu-30" value="Cloudfront" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="388" width="60" height="30" as="geometry" />
         </mxCell>
